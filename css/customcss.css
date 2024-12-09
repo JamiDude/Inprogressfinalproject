@@ -1,0 +1,22 @@
+h1{
+    color: beige !important;
+}
+.Basic_Resume{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    margin-left: -2px;
+}
+h5{
+    float: left;
+    margin-left: -12.5px;
+    font-size:95%
+}
+.Date_text{
+    float: right;
+    font-size:small
+}
+.container{
+    overflow: hidden;
+}

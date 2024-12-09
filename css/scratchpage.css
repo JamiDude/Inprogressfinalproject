@@ -1,0 +1,43 @@
+body{
+    background-color: lightcoral;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: flex-start;
+}
+.Framing{
+    flex: 1;
+    margin-right: 20px; 
+}
+.Framing2{
+    flex: 1;
+    margin-left: 20px; 
+    text-align:center;
+}
+
+.text-content{
+    flex: 1;
+    font-size: 20px;
+}
+
+h1, h4{
+    text-align: center;
+    color:maroon;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2, h5{
+    text-align: center;
+    color:black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3, h6{
+    text-align: center;
+    color:whitesmoke;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
